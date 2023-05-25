@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/port/static/css/main.15f4f472.css",
-    "main.js": "/port/static/js/main.2c04d657.js",
+    "main.css": "/port/static/css/main.3275df4a.css",
+    "main.js": "/port/static/js/main.51f37758.js",
     "static/media/unsplash.jpg": "/port/static/media/unsplash.48ed0148991072cf690c.jpg",
     "static/media/github.svg": "/port/static/media/github.3489af56807d90a62383959e66a0b1c0.svg",
     "static/media/globe.svg": "/port/static/media/globe.25ae14cfe029e1e0459b11be184e4b43.svg",
@@ -11,11 +11,11 @@
     "static/media/briefcase.svg": "/port/static/media/briefcase.07cf6620d45df40f851b6e747eff681e.svg",
     "static/media/mail.svg": "/port/static/media/mail.b4674268f6dd9478c6f565339bbee765.svg",
     "static/media/map-pin.svg": "/port/static/media/map-pin.b9cc8acd0dcbea37c8edd677258a03e1.svg",
-    "main.15f4f472.css.map": "/port/static/css/main.15f4f472.css.map",
-    "main.2c04d657.js.map": "/port/static/js/main.2c04d657.js.map"
+    "main.3275df4a.css.map": "/port/static/css/main.3275df4a.css.map",
+    "main.51f37758.js.map": "/port/static/js/main.51f37758.js.map"
   },
   "entrypoints": [
-    "static/css/main.15f4f472.css",
-    "static/js/main.2c04d657.js"
+    "static/css/main.3275df4a.css",
+    "static/js/main.51f37758.js"
   ]
 }
